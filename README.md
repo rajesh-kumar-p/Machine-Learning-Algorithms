@@ -28,4 +28,4 @@
  -> Merge, Join & Concatenate
  -> Pivot-tables
  -> Normalizing JSON
-
+4. Plots based on the dataframe used in the pandas by using matplotlib.
