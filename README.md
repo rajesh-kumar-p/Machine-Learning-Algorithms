@@ -84,14 +84,14 @@
    * Advantages & Limitations of Decision Trees
 
 10. Linear Models for Regression & Classification
-   * Simple Linear Regression using Ordinary Least Squares
-   * Gradient Descent Algorithm
-   * Regularized Regression Methods - Ridge, Lasso, ElasticNet
-   * Logistic Regression for Classification
-   * OnLine Learning Methods - Stochastic Gradient Descent & Passive Aggrasive
-   * Robust Regression - Dealing with outliers & Model errors
-   * Polynomial Regression
-   * Bias-Variance Tradeoff
+     * Simple Linear Regression using Ordinary Least Squares
+     * Gradient Descent Algorithm
+     * Regularized Regression Methods - Ridge, Lasso, ElasticNet
+     * Logistic Regression for Classification
+     * OnLine Learning Methods - Stochastic Gradient Descent & Passive Aggrasive
+     * Robust Regression - Dealing with outliers & Model errors
+     * Polynomial Regression
+     * Bias-Variance Tradeoff
 
 
 
@@ -134,12 +134,19 @@
     * Pivot-tables
     * Normalizing JSON
 4. Plots based on the dataframe used in the pandas by using matplotlib.
-5. Linear Models for Regression & Classification
-    * Simple Linear Regression using Ordinary Least Squares
-    * Gradient Descent Algorithm
-    * Regularized Regression Methods - Ridge, Lasso, ElasticNet
-    * Logistic Regression for Classification
-    * OnLine Learning Methods - Stochastic Gradient Descent & Passive Aggrasive
-    * Robust Regression - Dealing with outliers & Model errors
-    * Polynomial Regression
-    * Bias-Variance Tradeoff
+5. Preprocessing
+    * Introduction to Preprocessing 
+    * StandardScaler 
+    * MinMaxScaler 
+    * RobustScaler 
+    * Normalization 
+    * Binarization 
+    * Encoding Categorical (Ordinal & Nominal) Features 
+    * Imputation 
+    * Polynomial Features 
+    * Custom Transformer 
+    * Text Processing  
+    * CountVectorizer 
+    * TfIdf 
+    * HashingVectorizer 
+    * Image using skimage
