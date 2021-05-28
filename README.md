@@ -14,3 +14,18 @@
  -> Splitting data
  -> Shape and dimension
  -> Some Utility Functions
+3.Pandas fro machine learning
+ -> Introduction to Pandas
+ -> Understanding Series & DataFrames
+ -> Loading CSV,JSON
+ -> Connecting databases
+ -> Descriptive Statistics
+ -> Accessing subsets of data - Rows, Columns, Filters
+ -> Handling Missing Data
+ -> Dropping rows & columns
+ -> Handling Duplicates
+ -> Function Application - map, apply, groupby, rolling, str
+ -> Merge, Join & Concatenate
+ -> Pivot-tables
+ -> Normalizing JSON
+
