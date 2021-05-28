@@ -14,7 +14,7 @@
  -> Splitting data
  -> Shape and dimension
  -> Some Utility Functions
-3.Pandas fro machine learning
+3. Pandas fro machine learning
  -> Introduction to Pandas
  -> Understanding Series & DataFrames
  -> Loading CSV,JSON
