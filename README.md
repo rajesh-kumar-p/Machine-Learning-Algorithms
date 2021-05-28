@@ -1,4 +1,39 @@
 # Machine-Learning-Algorithms
+
+
+# ML Algorithms in python
+1. Model Selection & Evaluation
+   * Cross Validation
+   * Hyperparameter Tuning
+   * Model Evaluation
+   * Model Persistance
+   * Validation Curves
+   * Learning Curves
+
+2. Feature Selection Techniques
+   * Introduction to Feature Selection
+   * VarianceThreshold
+   * Chi-squared stats
+   * ANOVA using f_classif
+   * Univariate Linear Regression Tests using f_regression
+   * F-score vs Mutual Information
+   * Mutual Information for discrete value
+   * Mutual Information for continues value
+   * SelectKBest
+   * SelectPercentile
+   * SelectFromModel
+   * Recursive Feature Elemination
+
+
+
+
+
+
+
+
+
+
+
 1. Introduction to NUMPY library.
  -> Initialization of 1D array in Python
  -> Initialization of 2D array
@@ -14,7 +49,7 @@
  -> Splitting data
  -> Shape and dimension
  -> Some Utility Functions
-3. Pandas fro machine learning
+3. Pandas Library
  -> Introduction to Pandas
  -> Understanding Series & DataFrames
  -> Loading CSV,JSON
